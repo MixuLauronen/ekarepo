@@ -1,0 +1,2 @@
+Tämä on GitHubin koefile.
+Pitäisi ilmestyä koerepoon.
